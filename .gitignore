@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Build directories
+dist/
+.parcel-cache/
+
+# Coverage reports
+coverage/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other
+*.local
