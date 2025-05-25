@@ -10,4 +10,4 @@ const  Error = ()=>{
     )
 }
 export default Error;
-// manages
+// manages dai;l
